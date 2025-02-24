@@ -1,0 +1,14 @@
+C:\Users\erikg\Documents\Dev\Backend\Kalkulator\calculator_c_sharp\bin\Debug\net9.0\calculator_c_sharp.exe
+C:\Users\erikg\Documents\Dev\Backend\Kalkulator\calculator_c_sharp\bin\Debug\net9.0\calculator_c_sharp.deps.json
+C:\Users\erikg\Documents\Dev\Backend\Kalkulator\calculator_c_sharp\bin\Debug\net9.0\calculator_c_sharp.runtimeconfig.json
+C:\Users\erikg\Documents\Dev\Backend\Kalkulator\calculator_c_sharp\bin\Debug\net9.0\calculator_c_sharp.dll
+C:\Users\erikg\Documents\Dev\Backend\Kalkulator\calculator_c_sharp\bin\Debug\net9.0\calculator_c_sharp.pdb
+C:\Users\erikg\Documents\Dev\Backend\Kalkulator\calculator_c_sharp\obj\Debug\net9.0\calculator_c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikg\Documents\Dev\Backend\Kalkulator\calculator_c_sharp\obj\Debug\net9.0\calculator_c_sharp.AssemblyInfoInputs.cache
+C:\Users\erikg\Documents\Dev\Backend\Kalkulator\calculator_c_sharp\obj\Debug\net9.0\calculator_c_sharp.AssemblyInfo.cs
+C:\Users\erikg\Documents\Dev\Backend\Kalkulator\calculator_c_sharp\obj\Debug\net9.0\calculator_c_sharp.csproj.CoreCompileInputs.cache
+C:\Users\erikg\Documents\Dev\Backend\Kalkulator\calculator_c_sharp\obj\Debug\net9.0\calculator_c_sharp.dll
+C:\Users\erikg\Documents\Dev\Backend\Kalkulator\calculator_c_sharp\obj\Debug\net9.0\refint\calculator_c_sharp.dll
+C:\Users\erikg\Documents\Dev\Backend\Kalkulator\calculator_c_sharp\obj\Debug\net9.0\calculator_c_sharp.pdb
+C:\Users\erikg\Documents\Dev\Backend\Kalkulator\calculator_c_sharp\obj\Debug\net9.0\calculator_c_sharp.genruntimeconfig.cache
+C:\Users\erikg\Documents\Dev\Backend\Kalkulator\calculator_c_sharp\obj\Debug\net9.0\ref\calculator_c_sharp.dll
